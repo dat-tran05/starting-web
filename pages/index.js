@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm NOT <b>{name.substring(0,3)}.</b> I'm an aspiring software engineer, and I speak both Vietnamese and English. Check out my shit at{' '} 
-         <a href='https://github.com/dat-tran05'>GitHub.</a>
+         <a href='https://github.com/dat-tran05'>GitHub.</a> (It's really bad rn. Please don't judge :D)
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
